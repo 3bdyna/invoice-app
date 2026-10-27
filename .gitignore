@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# User specific / IDE
+.vscode/
+.idea/
+
+# Invoices and generated data (contain private customer info)
+invoices/
+*.pdf
+
+# Archives / Backups
+*.rar
+*.zip
+NEW GOOD COOD
+old code
+gemini*thing/
